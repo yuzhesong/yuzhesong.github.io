@@ -20,7 +20,11 @@ Education
 
 Work experience
 ======
-* Oct 2022 - Current: Postdoctoral Research Fellow
+* Nov 2025 - Current: Adjunct Research Fellow
+  * Centre for Astrophysics & Supercomputing, Swinburne University of Technology
+  * OzGrav, the ARC Centre of Excellence for Gravitational Wave Discovery
+
+* Oct 2022 - Nov 2025: Postdoctoral Research Fellow
   * Centre for Astrophysics & Supercomputing, Swinburne University of Technology
   * OzGrav, the ARC Centre of Excellence for Gravitational Wave Discovery
 
@@ -58,6 +62,7 @@ Teaching
   
 Grants & Awards
 ======
+* 2025: ASTAC High-Performance Computing Time, 350 kSU (equivalent of AU$17,500)
 * 2021: CUNY Academy Adjunct Faculty Travel Award
 * 2021: CUNY Graduate Center Amie James Science Conference Travel Award
 * 2021: CUNY Graduate Center Science Communication Fellow
@@ -70,8 +75,10 @@ Grants & Awards
 
 Service and Leadership
 ======
-* Jun 2023 - Current: Equity, Diversity & Inclusion Committee, OzGrav
-* June 2021 - Current: Committee for Sexual-Orientation & Gender Minorities in Astrsonomy, American Astronomical Society 
+* Apr 2024 - Current: Steering Committee, Inclusion, Diversity and Equity in Astronomy (IDEA) Chapter, Astronomical Society of Australia
+* Jun 2023 - Nov 2025: Equity, Diversity & Inclusion Committee, OzGrav
+* Jun 2024 - Nov 2025: Program Scientist, Key Program 5 (Cosmos), OzGrav
+* June 2021 - June 2024: Committee for Sexual-Orientation & Gender Minorities in Astrsonomy, American Astronomical Society 
 * January 2020 - May 2022: Astrophysics Seminar Committee, Department of Astrophysics, American Museum of Natural History
 * Summer 2019 - Aug 2021: Peer mentor for AstroCom scholars
 * July 2012: Volunteer for the 28th Intenational Astronomical Union General Assembly in Beijing
@@ -80,5 +87,6 @@ Service and Leadership
 
 Skills
 ======
-* Programming in Python, IDL, Fortran and C++.
-* Languages: Native speaker of Mandarin, fluent in English.
+* Programming in Python, Fortran and C++.
+* Data analysis with Python and SQL.
+* Languages: Native speaker of Mandarin, native level fluency in English.
