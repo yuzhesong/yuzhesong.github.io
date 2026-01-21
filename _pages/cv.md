@@ -34,6 +34,9 @@ Work experience
 * Aug 2018 - May 2022: Adjunct Lecturer
   * CUNY York College
 
+* May 2018 - Jun 2022: Graduate Research Assistant
+  * American Museum of Natural History
+
 * 2016-2017: Instructional Assistant
   * Hong Kong University of Science and Technology
 
